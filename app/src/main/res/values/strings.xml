@@ -1,0 +1,8 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">MiniBlog</string>
+    <string name="simple_blog">SimpleBlog</string>
+    <string name="add_task">Ajouter tâche</string>
+    <string name="enter_new_task">Entrez une nouvelle tâche</string>
+    <string name="search_tasks">Rechercher des tâches</string>
+</resources>
